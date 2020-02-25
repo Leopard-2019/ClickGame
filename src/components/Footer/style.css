@@ -1,0 +1,21 @@
+.navbar1 {
+  background:lightskyblue;
+  min-height: 20px;
+  position: fixed;
+  /* width: 100%; */
+  color: black;
+  font-size: 20px;
+  z-index: 99;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.navbar1 li {
+  display: inline-block;
+  float: none;
+  vertical-align: bottom;
+  padding-top: 10px;
+}
