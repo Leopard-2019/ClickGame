@@ -1,6 +1,8 @@
 
 Clicky-Game (React.js)
 
+the app can be accesed by this link:
+
 https://leopard-2019.github.io/clickgame/
 
 
