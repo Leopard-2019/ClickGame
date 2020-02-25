@@ -1,14 +1,9 @@
 
-Clicky-Game (React.js)
+CLICKY GAME (React.js)
 
 the app can be accesed by this link:
 
 https://leopard-2019.github.io/clickgame/
 
-
-CLICKY-GAME is a memory game app built using React.js The mechanic of the game is: using your mouse, CLICK each of the twelve Super Hero character cards in whatever order you chose - the order does not matter, only that you do not click the same card twice!.
-
-EACH click triggers the board of cards to reshuffle, thus, you cannot simply click the cards in the order in which they appear on screen.
-
-COUNTERS displayed to the top right and left of the board keep track of your current as well as top score.
+The app is a memory game rendering SuperHero images to the screen, where each image listens for the click events.The app keep keep track of the user's score. The user's score is incremented when clicking an image for the first time. The user's score is reset to 0 if they click the same image more than once.Every time an image is clicked, the images rendered to the page is shuffled themselves in a random order. Once the user's score is reset after an incorrect guess, the game should restart.
 
