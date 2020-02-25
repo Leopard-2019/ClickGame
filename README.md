@@ -1,5 +1,5 @@
 
-CLICKY GAME (React.js)
+CLICKY GAME (React App)
 
 The app can be accesed by this link:
 
