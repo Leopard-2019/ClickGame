@@ -7,7 +7,7 @@ const Footer = props => (
       <ul>
         <li>
           <p>
-            <small><img alt="react" src="../react.jpeg" style={{width:"25px",height:"25px"}}></img>
+            <small><img alt="react" src=".images/react.jpeg" style={{width:"25px",height:"25px"}}></img>
               <strong>
                 Copyright {props.currentYear}, Miguel Galarraga
               </strong>
