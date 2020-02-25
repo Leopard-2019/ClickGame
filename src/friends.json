@@ -2,84 +2,84 @@
   {
     "id": 1,
     "name": "Batman",
-    "image": "../images/Batman.png",
+    "image": "./assets/images/Batman.png",
     "occupation": "Super Hero",
     "location": "Gotham City"
   },
   {
     "id": 2,
     "name": "Superman",
-    "image": "../images/superman.jpeg",
+    "image": "./assets/images/superman.jpeg",
     "occupation": "Super Hero",
     "location": "Metropolis"
   },
   {
     "id": 3,
     "name": "Spiderman",
-    "image": "../images/spiderman.jpeg",
+    "image": "./assets/images/spiderman.jpeg",
     "occupation": "Super Hero",
     "location": "New York"
   },
   {
     "id": 4,
     "name": "Captain America",
-    "image": "../images/CaptainAmerica.jpeg",
+    "image": "./assets/images/CaptainAmerica.jpeg",
     "occupation": "Super Hero",
     "location": "Washington DC"
   },
   {
     "id": 5,
     "name": "Hulk",
-    "image": "../images/Hulk.png",
+    "image": "./assets/images/Hulk.png",
     "occupation": "Super Hero",
     "location": "San Francisco Bay Area"
   },
   {
     "id": 6,
     "name": "Iron Man",
-    "image": "../images/IronMan.jpeg",
+    "image": "./assets/images/IronMan.jpeg",
     "occupation": "Super Hero",
     "location": "New York"
   },
   {
     "id": 7,
     "name": "Green Lantern",
-    "image": "../images/GreenLantern.jpeg",
+    "image": "./assets/images/GreenLantern.jpeg",
     "occupation": "Super Hero",
     "location": "Gotham City"
   },
   {
     "id": 8,
     "name": "Thor",
-    "image": "../images/Thor.jpeg",
+    "image": "./assets/images/Thor.jpeg",
     "occupation": "Super Hero",
     "location": "Asgard"
   },
   {
     "id": 9,
     "name": "Wonder Woman",
-    "image": "../images/wonderwoman.jpeg",
+    "image": "./assets/images/wonderwoman.jpeg",
     "occupation": "Super Hero",
     "location": "Themyscira"
   },
   {
     "id": 10,
     "name": "Aquaman",
-    "image": "../images/Aquaman.jpeg",
+    "image": "./assets/images/Aquaman.jpeg",
     "occupation": "Super Hero",
     "location": "Poseidonis"
   },
   {
     "id": 11,
     "name": "Human Torch",
-    "image": "../images/HumanTorch.jpeg",
+    "image": "./assets/images/HumanTorch.jpeg",
     "occupation": "Super Hero",
     "location": "New York"
   },
   {
     "id": 12,
     "name": "Black Panther",
-    "image": "../images/blackPanther.jpeg",
+    "image": "./assets/images/blackPanther.jpeg",
     "occupation": "Super Hero",
     "location": "Wakanda"
   }
